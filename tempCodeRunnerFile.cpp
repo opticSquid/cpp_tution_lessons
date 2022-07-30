@@ -1,0 +1,1 @@
+cout << "Enter bill amount: " << endl;
